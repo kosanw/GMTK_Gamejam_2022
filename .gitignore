@@ -44,3 +44,10 @@ Saved/Logs/GMTK_Gamejam_2022_2.log
 Saved/
 
 
+*.log
+*.bin
+*.json
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Logs/GMTK_Gamejam_2022.log
