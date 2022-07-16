@@ -1240,3 +1240,130 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.16-01.28.57:990][248]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGM354E30154E985DB1D44282BBA3EB2886.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
 [2022.07.16-01.28.57:998][248]AssetCheck: New page: Asset Save: FunkyGM
 [2022.07.16-01.28.57:998][248]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.29.47:286][344]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.07.16-01.29.58:079][ 97]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.07.16-01.30.01:351][434]SourceControl: Source control is disabled
+[2022.07.16-01.30.01:351][434]LogSlate: Window 'Source Control Login' being destroyed
+[2022.07.16-01.31.32:263][701]BlueprintLog: New page: Compile FunkyGM
+[2022.07.16-01.31.32:290][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.07.16-01.31.32:931][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/FunkyGM" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset" SILENT=true
+[2022.07.16-01.31.32:933][774]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGMA23919DB4472DF876321708878436AA8.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
+[2022.07.16-01.31.32:942][774]AssetCheck: New page: Asset Save: FunkyGM
+[2022.07.16-01.31.32:942][774]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.35.03:292][901]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.16-01.35.03:311][901]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.16-01.35.04:611][ 51]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2022.07.16-01.35.04:611][ 51]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.16-01.35.17:111][419]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.07.16-01.35.17:118][419]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.07.16-01.35.23:420][167]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> MinigameIndex
+[2022.07.16-01.35.23:421][167]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.07.16-01.35.23:814][212]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enums/MinigameIndex.MinigameIndex
+[2022.07.16-01.36.27:700][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/MinigameIndex" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/Enums/MinigameIndex.uasset" SILENT=true
+[2022.07.16-01.36.27:700][829]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/MinigameIndex0BE5C30A4A0AA1ACF859A3BEF88429A3.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/Enums/MinigameIndex.uasset'
+[2022.07.16-01.36.27:708][829]AssetCheck: New page: Asset Save: MinigameIndex
+[2022.07.16-01.36.27:708][829]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/MinigameIndex.MinigameIndex
+[2022.07.16-01.36.54:015][954]LogSlate: Took 0.003195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.16-01.37.47:286][198]BlueprintLog: New page: Compile FunkyGM
+[2022.07.16-01.37.47:319][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.07.16-01.37.47:839][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/FunkyGM" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset" SILENT=true
+[2022.07.16-01.37.47:843][255]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGM31CEBD5B46A5186D3C06638A8A17F908.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
+[2022.07.16-01.37.47:851][255]AssetCheck: New page: Asset Save: FunkyGM
+[2022.07.16-01.37.47:851][255]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.38.42:223][637]BlueprintLog: New page: Compile FunkyGM
+[2022.07.16-01.38.42:249][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.07.16-01.38.42:776][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/FunkyGM" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset" SILENT=true
+[2022.07.16-01.38.42:778][695]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGM39B132A04A3494B91EDF2887AA65FE46.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
+[2022.07.16-01.38.42:786][695]AssetCheck: New page: Asset Save: FunkyGM
+[2022.07.16-01.38.42:786][695]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.39.04:842][288]BlueprintLog: New page: Compile FunkyGM
+[2022.07.16-01.39.04:868][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.07.16-01.39.05:426][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/FunkyGM" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset" SILENT=true
+[2022.07.16-01.39.05:429][349]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGMEB04D2604138BEC69A522F98AA93657D.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
+[2022.07.16-01.39.05:436][349]AssetCheck: New page: Asset Save: FunkyGM
+[2022.07.16-01.39.05:436][349]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.39.25:492][718]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.16-01.39.25:495][718]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.16-01.39.25:496][718]LogPlayLevel: [PlayLevel] Compiling MechanicCharacter before play...
+[2022.07.16-01.39.25:498][718]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.07.16-01.39.25:527][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.07.16-01.39.25:527][718]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (2 blueprints)
+[2022.07.16-01.39.25:528][718]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 15, 2022, 5:39:25 PM)
+[2022.07.16-01.39.25:529][718]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.07.16-01.39.25:530][718]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.16-01.39.25:530][718]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.16-01.39.25:537][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006870s)
+[2022.07.16-01.39.25:537][718]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.16-01.39.25:538][718]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.07.16-01.39.25:538][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007928s)
+[2022.07.16-01.39.25:557][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.07.16-01.39.25:557][718]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.16-01.39.25:557][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.16-01.39.25:557][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.16-01.39.25:557][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.16-01.39.25:557][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.16-01.39.25:557][718]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.16-01.39.25:560][718]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.16-01.39.25:560][718]LogAudioMixer: Display: 1: FrontRight
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Using Audio Device LG Ultra HD (NVIDIA High Definition Audio)
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.16-01.39.25:566][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.16-01.39.25:566][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.16-01.39.25:567][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.16-01.39.25:567][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.16-01.39.25:567][718]LogInit: FAudioDevice initialized.
+[2022.07.16-01.39.25:567][718]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.07.16-01.39.25:576][718]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.16-01.39.25:577][718]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.07.15-21.39.25
+[2022.07.16-01.39.25:578][718]LogWorld: Bringing up level for play took: 0.001206
+[2022.07.16-01.39.25:578][718]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.07.16-01.39.25:582][718]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.07.16-01.39.25:583][718]PIE: Server logged in
+[2022.07.16-01.39.25:584][718]PIE: Play in editor total start time 0.089 seconds.
+[2022.07.16-01.39.55:379][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-01.39.55:379][253]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.16-01.39.55:379][253]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-01.39.55:379][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-01.39.55:389][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.16-01.39.55:394][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-01.39.55:414][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-01.39.55:418][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.16-01.39.55:418][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.16-01.39.55:435][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.07.16-01.39.55:456][254]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.07.16-01.40.09:405][744]LogEditorViewport: Clicking on Actor (LMB): FunkyCharacterBase_C (ThirdPersonCharacter)
+[2022.07.16-01.40.20:343][794]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.16-01.40.20:358][794]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-01.40.49:725][602]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.16-01.40.57:373][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.16-01.40.57:388][441]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-01.41.07:069][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/FunkyCharacterBase.FunkyCharacterBase
+[2022.07.16-01.41.47:908][220]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-01.41.47:908][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-01.41.49:004][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.42.21:305][ 55]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{04a61268-bed7-423f-add6-4fda856ec0bf}.
+[2022.07.16-01.42.21:305][ 55]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.16-01.42.21:309][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.16-01.42.21:309][ 55]LogAudioMixer: Display: 1: FrontRight
+[2022.07.16-01.42.39:912][562]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-01.42.39:912][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-01.42.59:471][533]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.16-01.42.59:471][533]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-01.42.59:472][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-01.43.00:558][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/FunkyGM.FunkyGM
+[2022.07.16-01.43.21:091][969]BlueprintLog: New page: Compile FunkyGM
+[2022.07.16-01.43.21:178][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.07.16-01.43.22:376][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/FunkyGM" FILE="C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset" SILENT=true
+[2022.07.16-01.43.22:379][106]LogSavePackage: Moving 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Saved/FunkyGM9C1EA85E4DD3CBC8E9D8DAA8D28F78BB.tmp' to 'C:/Users/dchuntes/Documents/GMTKJam/GMTK_Gamejam_2022/Content/BP/FunkyGM.uasset'
+[2022.07.16-01.43.22:388][106]AssetCheck: New page: Asset Save: FunkyGM
+[2022.07.16-01.43.22:388][106]LogContentValidation: Display: Validating Blueprint /Game/BP/FunkyGM.FunkyGM
